@@ -1,0 +1,16 @@
+
+*** These modified files were found in JOE when it aborted on Wed Feb 13 12:41:16 2019
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/odroid/workspace/skmsibi.github.io/.git/MERGE_MSG
+/home/odroid/workspace/assignments/.git/config
+/home/odroid/workspace/assignments/.git/config
+/home/odroid/workspace/assignments/.git/COMMIT_EDITMSG
+/home/odroid/workspace/mitchelle.github.io/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
