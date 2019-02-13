@@ -1,8 +1,7 @@
 ---
 Layout: 
-Title: " First Week At The Coding Ground."
+Title: "First Week At The Coding Ground"
  Date: 2019-02-13 
- 
  ---
  # First Week At The Coding Ground.
 
